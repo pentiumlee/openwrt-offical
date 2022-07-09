@@ -134,6 +134,7 @@ jobs:
           CONFIG_PACKAGE_kmod-usb2-pci=y
           CONFIG_PACKAGE_kmod-usb3=y
           CONFIG_PACKAGE_luci-theme-openwrt-2020=y
+          CONFIG_PACKAGE_nano=y
           EOF
 
           #
