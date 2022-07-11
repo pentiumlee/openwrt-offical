@@ -4521,7 +4521,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-wol=y
           # CONFIG_PACKAGE_luci-app-xinetd is not set
           # CONFIG_PACKAGE_luci-app-yggdrasil is not set
-	        CONFIG_PACKAGE_luci-app-zerotier=y
+	  CONFIG_PACKAGE_luci-app-zerotier=y
           # end of 3. Applications
 
           #
@@ -4821,7 +4821,7 @@ jobs:
           # CONFIG_PACKAGE_luci-i18n-smartdns-es is not set
           # CONFIG_PACKAGE_luci-i18n-smartdns-pt-BR is not set
           CONFIG_PACKAGE_luci-i18n-smartdns-zh-cn=y
-	        CONFIG_PACKAGE_luci-i18n-softether-zh-cn=y
+	  CONFIG_PACKAGE_luci-i18n-softether-zh-cn=y
           # CONFIG_PACKAGE_luci-i18n-ttyd-ar is not set
           # CONFIG_PACKAGE_luci-i18n-ttyd-bg is not set
           # CONFIG_PACKAGE_luci-i18n-ttyd-bn is not set
@@ -4956,7 +4956,7 @@ jobs:
           # CONFIG_PACKAGE_luci-i18n-wol-vi is not set
           CONFIG_PACKAGE_luci-i18n-wol-zh-cn=y
           # CONFIG_PACKAGE_luci-i18n-wol-zh-tw is not set
-	        CONFIG_PACKAGE_luci-i18n-zerotier-zh-cn=y
+	  CONFIG_PACKAGE_luci-i18n-zerotier-zh-cn=y
           # end of LuCI
 
           #
@@ -5648,7 +5648,7 @@ jobs:
           # CONFIG_PACKAGE_vpnc-scripts is not set
           # CONFIG_PACKAGE_wireguard-tools is not set
           # CONFIG_PACKAGE_xl2tpd is not set
-	        CONFIG_PACKAGE_zerotier=y
+	  CONFIG_PACKAGE_zerotier=y
           # end of VPN
 
           #
